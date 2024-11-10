@@ -14,3 +14,7 @@ Cargo.lock
 *.pdb
 
 *.exe
+
+# Added by cargo
+
+/target
